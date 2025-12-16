@@ -25,9 +25,3 @@ Este es un mini proyecto creado para **practicar Git y GitHub**, usando commits 
 - `hotfix-readme`: correcciones en el README
 
 ---
-
-## Cómo usar
-
-1. Clonar el repositorio:
-```bash
-git clone https://github.com/juancaa005/proyecto-git-daw-ed-JVR.git
