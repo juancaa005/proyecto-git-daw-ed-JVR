@@ -25,3 +25,4 @@ Este es un mini proyecto creado para **practicar Git y GitHub**, usando commits 
 - `hotfix-readme`: correcciones en el README
 
 ---
+Pedro I love you :)
